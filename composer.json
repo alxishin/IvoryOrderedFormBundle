@@ -1,5 +1,5 @@
 {
-    "name": "egeloen/ordered-form-bundle",
+    "name": "alxishin/ordered-form-bundle",
     "type": "symfony-bundle",
     "description": "Provides a form ordering support for your Symfony2 project.",
     "keywords": [ "form", "order" ],
